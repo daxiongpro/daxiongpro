@@ -27,15 +27,16 @@
 </details>
 
 <div>
-    <details align="left">
+    <details style="float:left">
     <summary>📈 My github stats</summary>
     <p> 
         <img src="https://github-readme-stats.vercel.app/api?username=daxiongpro&show_icons=true&theme=gotham" alt="daxiongpro" />
     </p>
     </details>
-    <img align="right" alt="GIF" src="Night-Coding.gif?raw=true" />
+    <img style="float:right" alt="GIF" src="Night-Coding.gif?raw=true" />
 </div>
 
+<hr/>
 
 <ul> 💼 Any questions? <a href="mailto:zhengyi_cai@foxmail.com">Email me！</a></ul>
 <ul> 💬 Ask me about anything, I am happy to help;</ul>
