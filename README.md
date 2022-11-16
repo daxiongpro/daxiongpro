@@ -1,9 +1,9 @@
 <p>
     <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/daxiongpro/daxiongpro">
     <img alt="GitHub commit activity (branch)" src="https://img.shields.io/github/commit-activity/y/daxiongpro/daxiongpro/master">
+    <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=plastic&logo=docker&logoColor=white" />
+    <img alt="Docker" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub&labelColor=495867&color=495867&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dhayschan&style=flat-square" />
 </p>
-
-
 
 <h1 align=center> Hi, I'm daxiongpro 👋 </h1>
 
@@ -25,9 +25,7 @@
     <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
     <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 </p>
-
 </details>
-
 
 <div>
     <img align="right" alt="GIF" src="Night-Coding.gif?raw=true" />
@@ -41,9 +39,3 @@
         <img src="https://github-readme-stats.vercel.app/api?username=daxiongpro&show_icons=true&theme=gotham" alt="daxiongpro" />
     </p>
 </details>
-
-<p>
-    <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=plastic&logo=docker&logoColor=white" />
-    <img alt="Docker" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub&labelColor=495867&color=495867&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dhayschan&style=flat-square" />
-</p>
-
