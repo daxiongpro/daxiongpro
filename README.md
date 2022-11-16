@@ -32,7 +32,7 @@
             <img src="https://github-readme-stats.vercel.app/api?username=daxiongpro&show_icons=true&theme=gotham" alt="daxiongpro" />
         </p>
     </details>
-    <img style="float:right" alt="GIF" src="Night-Coding.gif?raw=true"/>
+    <img align=right alt="GIF" src="Night-Coding.gif?raw=true"/>
 </div>
 
 <hr/>
