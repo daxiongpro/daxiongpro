@@ -16,9 +16,8 @@
     <ul> ✍️ <a href="https://www.zhihu.com/people/da-xiong-43-94">zhihu(知乎).</a></ul>
     <ul> ♟ Badminton / Swimming / Table Tennis / Hiking / Cycling / Chinese Chess / Glory of Kings（王者荣耀）. </ul>
     <ul> 🚗 Zeeker 001 / Lynk&Co 01 / Volvo xc 90 . </ul>
-
+    <ul> 👉 languages and tools:</ul>
 <p>
-    languages and tools:
     <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
     <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
     <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
@@ -28,14 +27,15 @@
 </details>
 
 <div>
-    <img align="right" alt="GIF" src="Night-Coding.gif?raw=true" />
-    <ul> 💼 Any questions? <a href="mailto:zhengyi_cai@foxmail.com">email </a></ul>
-    <ul> 💬 Ask me about anything, I am happy to help;</ul>
-</div>
-
-<details>
+    <details>
     <summary>📈 My github stats</summary>
     <p align="center"> 
         <img src="https://github-readme-stats.vercel.app/api?username=daxiongpro&show_icons=true&theme=gotham" alt="daxiongpro" />
     </p>
-</details>
+    </details>
+    <img align="right" alt="GIF" src="Night-Coding.gif?raw=true" />
+</div>
+
+
+<ul> 💼 Any questions? <a href="mailto:zhengyi_cai@foxmail.com">email </a></ul>
+<ul> 💬 Ask me about anything, I am happy to help;</ul>
