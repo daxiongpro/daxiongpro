@@ -27,9 +27,9 @@
 </details>
 
 <div>
-    <details>
+    <details align="left">
     <summary>📈 My github stats</summary>
-    <p align="center"> 
+    <p> 
         <img src="https://github-readme-stats.vercel.app/api?username=daxiongpro&show_icons=true&theme=gotham" alt="daxiongpro" />
     </p>
     </details>
@@ -37,5 +37,5 @@
 </div>
 
 
-<ul> 💼 Any questions? <a href="mailto:zhengyi_cai@foxmail.com">email </a></ul>
+<ul> 💼 Any questions? <a href="mailto:zhengyi_cai@foxmail.com">Email me！</a></ul>
 <ul> 💬 Ask me about anything, I am happy to help;</ul>
