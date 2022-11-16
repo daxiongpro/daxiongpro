@@ -11,7 +11,7 @@
     <summary> About </summary>
     <ul> 🔭 I’m currently working on ADAS. </ul>
     <ul> 🌱 I’m currently learning TensorRT deployment with C++.</ul>
-    <ul> 🍻 Engineer working for 🇨🇳 [GEELY](http://www.zgh.com), focusing on ADAS .</ul>
+    <ul> 🍻 Engineer working for 🇨🇳 <a href="http://www.zgh.com"> GEELY </a>, focusing on ADAS .</ul>
     <ul> ⚡ C++ / Python / Git / docker / Linux / Pytorch / TensorRT .</ul>
     <ul> ✍️ <a href="https://www.zhihu.com/people/da-xiong-43-94">zhihu(知乎).</a></ul>
     <ul> ♟ Badminton / Swimming / Table Tennis / Hiking / Cycling / Chinese Chess / Glory of Kings（王者荣耀）. </ul>
