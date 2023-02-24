@@ -56,7 +56,8 @@
             <ul><a href="https://github.com/daxiongpro/smart_assemble_assistant"> smart_assemble_assistant: </a>基于 PyQt 和 mediapip 的智能辅助装配系统。</ul>
             <ul><a href="https://github.com/daxiongpro/ST-LIDAR"> ST-LIDAR: </a>使用 ROS-RVIZ 实时可视化 mmdet3d、openPCDet、det3d 框架推理结果，并支持 ROS 话题接收和发布。</ul>
             <ul><a href="https://github.com/daxiongpro/ST-LIDAR-CPP"> ST-LIDAR-CPP: </a>基于 CenterPoint 的 C++ 部署并使用 ROS-RVIZ 实时可视化。</ul>
-            <ul><a href="https://github.com/daxiongpro/BEVDet"> BEVDet、 </a>
+            <ul><a href="https://github.com/daxiongpro/bevfusion"> bevfusion: </a>使用 BEVFusion 训练自己的数据集。 </ul>
+            <ul><a href="https://github.com/daxiongpro/BEVDet"> BEVDet </a>、
                 <a href="https://github.com/daxiongpro/mmdeploy_bevdet"> mmdeploy_bevdet: </a>
                 跑通 BEVDet，转换 onnx，并使用 TensorRT C++ 化部署。
             </ul>
