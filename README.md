@@ -64,8 +64,12 @@
             <ul><a href="https://github.com/daxiongpro/mmdetection3d_ros"> mmdetection3d_ros: </a>将 mmdetection3d 使用 ROS 可视化. </ul>
             <ul><a href="https://github.com/daxiongpro/DS2019_NBU_TA"> DS2019_NBU_TA: </a>2020 数据结构助教. </ul>
             <ul><a href="https://github.com/daxiongpro/clash"> clash: </a>Use clash proxy quickly and more easy! </ul>
+    </details>
+    <details>
+        <summary>My personal: </summary>
             <ul><a href="https://github.com/daxiongpro/paper"> paper: </a>My paper. </ul>
             <ul><a href="https://github.com/daxiongpro/Insurance"> Insurance: </a>My Insurance. </ul>
+            <ul><a href="https://github.com/daxiongpro/interview"> interview: </a>My interview. </ul>
     </details>
 </details>
 
