@@ -70,6 +70,7 @@
             <ul><a href="https://github.com/daxiongpro/paper"> paper: </a>My paper. </ul>
             <ul><a href="https://github.com/daxiongpro/Insurance"> Insurance: </a>My Insurance. </ul>
             <ul><a href="https://github.com/daxiongpro/interview"> interview: </a>My interview. </ul>
+            <ul><a href="https://github.com/daxiongpro/secret"> secret: </a>My secret. </ul>
     </details>
 </details>
 
