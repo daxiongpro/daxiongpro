@@ -44,6 +44,7 @@
             <ul><a href="https://github.com/daxiongpro/ros2_kitti"> ros2_kitti: </a>Visualize KITTI dataset using ROS2. </ul>
             <ul><a href="https://github.com/daxiongpro/PyTorch-YOLOv3-kitti"> PyTorch-YOLOv3-kitti: </a>Training KITTI dataset using YOLOv3 with pytorch. </ul>
             <ul><a href="https://github.com/open-mmlab/mmdetection3d"> mmdetection3d: </a>My mmdetection3d. </ul>
+            <ul><a href="https://github.com/daxiongpro/demo_cpp"> demo_cpp: </a>c++ 极简 demo 教程. </ul>
             <ul><a href="https://github.com/daxiongpro/Deal_with_Excel"> Deal_with_Excel: </a>Dealing with Excel with Pandas library using python language. </ul>
             <ul><a href="https://github.com/daxiongpro/QuanMinKGe_reptile"> QuanMinKGe_reptile: </a>全民K歌爬虫. </ul>
             <ul><a href="https://github.com/daxiongpro/Bleu"> Bleu: </a>基于 Bleu 算法机器翻译得分计算，并使用 PyQt 绘制简易GUI. </ul>
