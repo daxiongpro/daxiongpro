@@ -46,7 +46,7 @@
             <ul><a href="https://github.com/open-mmlab/mmdetection3d"> mmdetection3d: </a>My mmdetection3d. </ul>
             <ul><a href="https://github.com/daxiongpro/demo_cpp"> demo_cpp: </a>c++ 极简 demo 教程. </ul>
             <ul><a href="https://github.com/daxiongpro/Deal_with_Excel"> Deal_with_Excel: </a>Dealing with Excel with Pandas library using python language. </ul>
-            <ul><a href="https://github.com/daxiongpro/QuanMinKGe_reptile"> QuanMinKGe_reptile: </a>全民K歌爬虫. </ul>
+            <ul><a href="https://github.com/daxiongpro/spiders"> spiders: </a>爬虫程序(全民K歌、小红书等). </ul>
             <ul><a href="https://github.com/daxiongpro/Bleu"> Bleu: </a>基于 Bleu 算法机器翻译得分计算，并使用 PyQt 绘制简易GUI. </ul>
             <ul><a href="https://github.com/daxiongpro/my_blockchain"> my_blockchain: </a>基于区块链的物流系统。 </ul>
             <ul><a href="https://github.com/daxiongpro/Student_management"> Student_management: </a>基于 Django 和 simpleui 的简单学生成绩管理系统，实现了学生登录查分以及教师登录录入成绩。 </ul>
