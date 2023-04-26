@@ -50,7 +50,7 @@
             <ul><a href="https://github.com/daxiongpro/Bleu"> Bleu: </a>基于 Bleu 算法机器翻译得分计算，并使用 PyQt 绘制简易GUI. </ul>
             <ul><a href="https://github.com/daxiongpro/my_blockchain"> my_blockchain: </a>基于区块链的物流系统。 </ul>
             <ul><a href="https://github.com/daxiongpro/Student_management"> Student_management: </a>基于 Django 和 simpleui 的简单学生成绩管理系统，实现了学生登录查分以及教师登录录入成绩。 </ul>
-            <ul><a href="https://github.com/daxiongpro/problemMD"> problemMD: </a>记录实验遇到的坑。 </ul>
+            <ul><a href="https://github.com/daxiongpro/articles"> articles: </a>文章博客。 </ul>
     </details>
     <details>
         <summary>Private: </summary>
