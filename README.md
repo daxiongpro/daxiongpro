@@ -5,18 +5,18 @@
     <img alt="Docker" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub&labelColor=495867&color=495867&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dhayschan&style=flat-square" />
 </p>
 
-<h1 align=center> Hi, I'm daxiongpro 👋 </h1>
+<div style="overflow: auto;">
+<h1 style="float:left" align=left> Hi, I'm daxiongpro 👋 </h1>
+<img style="float:right; max-width:100%; height:auto;" alt="GIF" src="Night-Coding.gif?raw=true"/>
+</div>
 
 <details>
-    <summary> About </summary>
-    <ul> 🔭 I’m currently working on ADAS. </ul>
-    <ul> 🌱 I’m currently learning TensorRT deployment with C++.</ul>
-    <ul> 🍻 Engineer working for 🇨🇳 <a href="http://www.zgh.com"> GEELY </a>, focusing on Vision and LIDAR perception .</ul>
+    <summary> 关于我 </summary>
+    <ul> 🔭 自动驾驶感知算法工程师. </ul>
     <ul> ⚡ C++ / Python / Git / docker / Linux / Pytorch / TensorRT .</ul>
-    <ul> ✍️ <a href="https://www.zhihu.com/people/da-xiong-43-94">zhihu(知乎).</a></ul>
-    <ul> ♟ Badminton / Swimming / Table Tennis / Hiking / Cycling / Chinese Chess / Glory of Kings（王者荣耀）. </ul>
-    <ul> 🚗 Zeeker 001 / Lynk&Co 01 / Volvo xc 90 . </ul>
-<p><ul> 👉 languages and tools:
+    <ul> ✍️ <a href="https://www.zhihu.com/people/da-xiong-43-94">知乎主页.</a></ul>
+    <ul> 🚗 Zeeker 001 / Lynk&Co / Volvo . </ul>
+<p><ul> 👉 语言和技能:
     <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
     <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
     <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
@@ -25,57 +25,16 @@
 </ul></p>
 </details>
 
-<div>
-    <details style="float:left">
-        <summary>📈 My github stats</summary>
-        <p> 
-            <img src="https://github-readme-stats.vercel.app/api?username=daxiongpro&show_icons=true&theme=gotham" alt="daxiongpro" />
-        </p>
-    </details>
-    <img align=right alt="GIF" src="Night-Coding.gif?raw=true"/>
-</div>
-
 <details>
-    <summary> My repositories: </summary>
-    <details>
-        <summary>Public: </summary>
-            <ul><a href="https://github.com/daxiongpro/Qdotfiles"> Qdotfiles: </a>Help you use Ubuntu more easy! </ul>
-            <ul><a href="https://github.com/daxiongpro/ros1_kitti"> ros1_kitti: </a>Visualize KITTI dataset using ROS1. </ul>
-            <ul><a href="https://github.com/daxiongpro/ros2_kitti"> ros2_kitti: </a>Visualize KITTI dataset using ROS2. </ul>
-            <ul><a href="https://github.com/daxiongpro/PyTorch-YOLOv3-kitti"> PyTorch-YOLOv3-kitti: </a>Training KITTI dataset using YOLOv3 with pytorch. </ul>
-            <ul><a href="https://github.com/open-mmlab/mmdetection3d"> mmdetection3d: </a>My mmdetection3d. </ul>
-            <ul><a href="https://github.com/daxiongpro/demo_cpp"> demo_cpp: </a>c++ 极简 demo 教程. </ul>
-            <ul><a href="https://github.com/daxiongpro/Deal_with_Excel"> Deal_with_Excel: </a>Dealing with Excel with Pandas library using python language. </ul>
-            <ul><a href="https://github.com/daxiongpro/spiders"> spiders: </a>爬虫程序(全民K歌、小红书等). </ul>
-            <ul><a href="https://github.com/daxiongpro/Bleu"> Bleu: </a>基于 Bleu 算法机器翻译得分计算，并使用 PyQt 绘制简易GUI. </ul>
-            <ul><a href="https://github.com/daxiongpro/my_blockchain"> my_blockchain: </a>基于区块链的物流系统。 </ul>
-            <ul><a href="https://github.com/daxiongpro/Student_management"> Student_management: </a>基于 Django 和 simpleui 的简单学生成绩管理系统，实现了学生登录查分以及教师登录录入成绩。 </ul>
-            <ul><a href="https://github.com/daxiongpro/articles"> articles: </a>文章博客。 </ul>
-    </details>
-    <details>
-        <summary>Private: </summary>
-            <ul><a href="https://github.com/daxiongpro/smart_assemble_assistant"> smart_assemble_assistant: </a>基于 PyQt 和 mediapip 的智能辅助装配系统。</ul>
-            <ul><a href="https://github.com/daxiongpro/ST-LIDAR"> ST-LIDAR: </a>使用 ROS-RVIZ 实时可视化 mmdet3d、openPCDet、det3d 框架推理结果，并支持 ROS 话题接收和发布。</ul>
-            <ul><a href="https://github.com/daxiongpro/ST-LIDAR-CPP"> ST-LIDAR-CPP: </a>基于 CenterPoint 的 C++ 部署并使用 ROS-RVIZ 实时可视化。</ul>
-            <ul><a href="https://github.com/daxiongpro/bevfusion"> bevfusion: </a>使用 BEVFusion 训练自己的数据集。 </ul>
-            <ul><a href="https://github.com/daxiongpro/BEVDet"> BEVDet </a>、
-                <a href="https://github.com/daxiongpro/mmdeploy_bevdet"> mmdeploy_bevdet: </a>
-                跑通 BEVDet，转换 onnx，并使用 TensorRT C++ 化部署。
-            </ul>
-            <ul><a href="https://github.com/daxiongpro/mmdetection3d_ros"> mmdetection3d_ros: </a>将 mmdetection3d 使用 ROS 可视化. </ul>
-            <ul><a href="https://github.com/daxiongpro/DS2019_NBU_TA"> DS2019_NBU_TA: </a>2020 数据结构助教. </ul>
-            <ul><a href="https://github.com/daxiongpro/clash"> clash: </a>Use clash proxy quickly and more easy! </ul>
-    </details>
-    <details>
-        <summary>My personal: </summary>
-            <ul><a href="https://github.com/daxiongpro/paper"> paper: </a>My paper. </ul>
-            <ul><a href="https://github.com/daxiongpro/Insurance"> Insurance: </a>My Insurance. </ul>
-            <ul><a href="https://github.com/daxiongpro/interview"> interview: </a>My interview. </ul>
-            <ul><a href="https://github.com/daxiongpro/secret"> secret: </a>My secret. </ul>
-    </details>
+    <summary> 我的仓库: </summary>
+        <ul><a href="https://github.com/daxiongpro/articles"> articles: </a>文章博客。 </ul>
+        <ul><a href="https://github.com/daxiongpro/Qdotfiles"> Qdotfiles: </a>Help you use Ubuntu more easy! </ul>
+        <ul><a href="https://github.com/daxiongpro/ros1_kitti"> ros1_kitti: </a>使用 ROS1 对 KITTI 数据集可视化. </ul>
+        <ul><a href="https://github.com/daxiongpro/ros2_kitti"> ros2_kitti: </a>使用 ROS2 对 KITTI 数据集可视化. </ul>
+        <ul><a href="https://github.com/daxiongpro/demo_cpp"> demo_cpp: </a>c++ 极简 demo 教程. </ul>
+        <ul><a href="https://github.com/daxiongpro/ST-LIDAR"> ST-LIDAR: </a>使用 ROS-RVIZ 实时可视化 mmdet3d、openPCDet、det3d 框架推理结果，并支持 ROS 话题接收和发布。</ul>
+        <ul><a href="https://github.com/daxiongpro/ST-LIDAR-CPP"> ST-LIDAR-CPP: </a>基于 CenterPoint 的 C++ 部署并使用 ROS-RVIZ 实时可视化。</ul>
+        <ul><a href="https://github.com/daxiongpro/clash"> clash: </a>在 Ubuntu 上快速翻墙! </ul>
 </details>
 
 <hr/>
-
-<ul> 💼 Any questions? <a href="mailto:zhengyi_cai@foxmail.com">Email me！</a></ul>
-<ul> 💬 Ask me about anything, I am happy to help;</ul>
