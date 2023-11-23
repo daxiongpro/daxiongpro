@@ -25,26 +25,27 @@
 </ul></p>
 </details>
 
-<details>
-    <summary> 我的仓库: </summary>
-        <ul><a href="https://github.com/daxiongpro/articles"> articles: </a>文章博客。 </ul>
-        <ul><a href="https://github.com/daxiongpro/Qdotfiles"> Qdotfiles: </a>Help you use Ubuntu more easy! </ul>
-        <ul><a href="https://github.com/daxiongpro/ros1_kitti"> ros1_kitti: </a>使用 ROS1 对 KITTI 数据集可视化. </ul>
-        <ul><a href="https://github.com/daxiongpro/ros2_kitti"> ros2_kitti: </a>使用 ROS2 对 KITTI 数据集可视化. </ul>
-        <ul><a href="https://github.com/daxiongpro/demo_cpp"> demo_cpp: </a>c++ 极简 demo 教程. </ul>
-        <ul><a href="https://github.com/daxiongpro/ST-LIDAR"> ST-LIDAR: </a>使用 ROS-RVIZ 实时可视化 mmdet3d、openPCDet、det3d 框架推理结果，并支持 ROS 话题接收和发布。</ul>
-        <ul><a href="https://github.com/daxiongpro/ST-LIDAR-CPP"> ST-LIDAR-CPP: </a>基于 CenterPoint 的 C++ 部署并使用 ROS-RVIZ 实时可视化。</ul>
-        <ul><a href="https://github.com/daxiongpro/clash"> clash: </a>在 Ubuntu 上快速翻墙! </ul>
-</details>
+## 我的仓库:
 
-<hr/>
+public：
+* [articles](https://github.com/daxiongpro/articles)
+* [Qdotfiles](https://github.com/daxiongpro/Qdotfiles)
+* [spiders](https://github.com/daxiongpro/spiders)
+* [CMT](https://github.com/daxiongpro/CMT)
+* [ros1_kitti](https://github.com/daxiongpro/ros1_kitti)
+* [ros2_kitti](https://github.com/daxiongpro/ros2_kitti)
+* [demo_cpp](https://github.com/daxiongpro/demo_cpp)
+* [Deal_with_Excel](https://github.com/daxiongpro/Deal_with_Excel)
 
 
-### hello world 
-* test1
-* test2
-* test3
+private：
 
-```bash
-bash test
-```
+* [secret](https://github.com/daxiongpro/secret)
+* [clash](https://github.com/daxiongpro/clash)
+* [paper](https://github.com/daxiongpro/paper)
+* [interview](https://github.com/daxiongpro/interview/tree/master)
+* [ST-LIDAR](https://github.com/daxiongpro/ST-LIDAR)
+* [ST-LIDAR-CPP](https://github.com/daxiongpro/ST-LIDAR-CPP)
+* [bevfusion](https://github.com/daxiongpro/bevfusion)
+* [UniAD](https://github.com/daxiongpro/UniAD)
+* [smart_assemble_assistant](https://github.com/daxiongpro/smart_assemble_assistant)
