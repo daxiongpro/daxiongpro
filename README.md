@@ -43,6 +43,7 @@ private：
 * [secret](https://github.com/daxiongpro/secret)
 * [clash](https://github.com/daxiongpro/clash)
 * [paper](https://github.com/daxiongpro/paper)
+* [geely_paper](https://github.com/daxiongpro/geely_paper)
 * [interview](https://github.com/daxiongpro/interview/tree/master)
 * [ST-LIDAR](https://github.com/daxiongpro/ST-LIDAR)
 * [ST-LIDAR-CPP](https://github.com/daxiongpro/ST-LIDAR-CPP)
