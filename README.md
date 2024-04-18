@@ -48,5 +48,6 @@ private：
 * [ST-LIDAR](https://github.com/daxiongpro/ST-LIDAR)
 * [ST-LIDAR-CPP](https://github.com/daxiongpro/ST-LIDAR-CPP)
 * [bevfusion](https://github.com/daxiongpro/bevfusion)
-* [UniAD](https://github.com/daxiongpro/UniAD)
+* [GeeAD](https://github.com/daxiongpro/GeeAD)
+* [DeepInteraction](https://github.com/daxiongpro/DeepInteraction)
 * [smart_assemble_assistant](https://github.com/daxiongpro/smart_assemble_assistant)
