@@ -28,6 +28,7 @@
 ## 我的仓库:
 
 public：
+
 * [articles](https://github.com/daxiongpro/articles)
 * [Qdotfiles](https://github.com/daxiongpro/Qdotfiles)
 * [spiders](https://github.com/daxiongpro/spiders)
@@ -36,7 +37,7 @@ public：
 * [ros2_kitti](https://github.com/daxiongpro/ros2_kitti)
 * [demo_cpp](https://github.com/daxiongpro/demo_cpp)
 * [Deal_with_Excel](https://github.com/daxiongpro/Deal_with_Excel)
-
+* [picx-images-hosting](https://github.com/daxiongpro/picx-images-hosting)
 
 private：
 
